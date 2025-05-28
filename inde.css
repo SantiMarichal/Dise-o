@@ -2,3 +2,28 @@ h1{
   text-align: center;
   color: red;
 }
+.bfn{
+  color:white;
+  background-color: black;
+}
+p i {
+  color: red;
+  font-style: italic;
+}
+p u {
+  color: blue;
+  text-decoration: underline;
+}
+p s {
+  color: gray;
+  text-decoration: line-through;
+}
+.derechaAzul {
+  color: blue;
+  text-align: right;
+}
+#Titulo {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
